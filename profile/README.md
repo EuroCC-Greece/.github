@@ -17,7 +17,3 @@ The project has received funding from the European High-Performance computing Jo
 ### What is this repository?
 
 This repository contains software examples / libraries that anyone can directly use and learn new technologies. It has been divided into categories, in order to assist visitors in finding software assets from various domains, such as machine learning, big data, and HPC development. Examples are available either as online tutorials (e.g. in the form of a Jupiter notebook) or downloadable material, ready to be included in your software as a library.
-
-### Interested in contributing?
-
-Feel free to contribute with software examples / libraries that other developers can download or try online.
