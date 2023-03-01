@@ -1,27 +1,10 @@
-## EuroCC@Greece
-### The Greek EuroCC Hub for High-Performance Computing
+## EuroCC@Greece - GitHub Repository
 
-A National Competence Center is the reference and single point of contact and coordination on a national level for HPC. Its missions are to analyse, implement and coordinate all necessary activities and offer services to end users to cover their needs: from access to resources and technological consultancy to the provision of training courses for academia, public administrations and industry.
+### What is EuroCC@Greece?
 
-The aim is to bring together the necessary expertise to set up a cross-European network of NCCs in HPC-related topics with 31 participating members and associated states and to provide a broad service portfolio tailored to the respective national needs of academia, public administrations and industry. Each NCC has a presentation page with their skills and contact information. 
+[EuroCC@Greece](https://eurocc-greece.gr/) is one of the 33 HPC Competence Centres, built in the framework of the [European High Performance Computing Joint Undertaking (EuroHPC JU)](https://eurohpc-ju.europa.eu/index_en). It's objectives are to enable the efficient uptake of HPC technologies with the 3-fold goal to advance competitiveness in research, improve effectiveness of government services and promote innovation in industry. In order to achieve this goal, the NCC will address the issues of training and skills development, technology transfer, collaboration with Industry, competence mapping and awareness raising, in the fields of High Performance Computing, High Performance Data Analytics, Artificial Intelligence and Big Data.
 
-[EuroCC@Greece](https://eurocc-greece.gr/) is one of the 33 HPC Competence Centres, built in the framework of the European High Performance Computing Joint Undertaking (EuroHPC JU). 
-
-**The overall objective of the Greek National Competence Center is to enable the efficient uptake of HPC technologies**  
-
-with the 3-fold goal to:
-
-1. advance competitiveness in research 
-    
-2. improve effectiveness of government services and 
-    
-3. promote innovation in industry.
-
-In order to achieve this goal, the NCC will address the issues of training and skills development, technology transfer, collaboration with Industry, competence mapping and awareness raising, in the fields of High Performance Computing, High Performance Data Analytics, Artificial Intelligence and Big Data. 
-
-**Consortium**
-
-The Greek National Competence Center “EuroCC@Greece”, is run by a consortium of 5 institutions, namely  
+EuroCC@Greece is run by a consortium of 5 institutions, namely  
 
 - [GRNET - National Infrastructures for Research and Technology](https://eurocc-greece.gr/grnet-national-infrastructures-for-research-and-technology-coordinator/)  (**coordinator**), 
 - [National Center for Scientific Research “Demokritos”](https://eurocc-greece.gr/demokritos/),
@@ -30,3 +13,11 @@ The Greek National Competence Center “EuroCC@Greece”, is run by a consortium
 - [Aristotle University of Thessaloniki](https://eurocc-greece.gr/auth/).  
 
 The project has received funding from the European High-Performance computing Joint Undertaking (JU) under grant agreement No 951732 and the Greek Secretariat for Research and Technology.
+
+### What is this repository?
+
+This repository contains software examples / libraries that anyone can directly use and learn new technologies. It has been divided into categories, in order to assist visitors in finding software assets from various domains, such as machine learning, big data, and HPC development. Examples are available either as online tutorials (e.g. in the form of a Jupiter notebook) or downloadable material, ready to be included in your software as a library.
+
+### Interested in contributing?
+
+Feel free to contribute with software examples / libraries that other developers can download or try online.
